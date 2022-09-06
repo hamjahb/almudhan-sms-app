@@ -1,8 +1,8 @@
 {
-  "name": "sms-to-web-react-app",
+  "name": "almudhan-sms-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hamjahb.github.io/sms-to-web-react-app",
+  "homepage": "http://hamjahb.github.io/almudhan-sms-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
